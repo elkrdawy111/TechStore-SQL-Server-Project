@@ -229,6 +229,6 @@ Or simply open each file in SSMS and execute it top to bottom against your SQL S
 
 ---
 
-## 👤 Author
+## 👤 MOHAMED ELKRDAWY
 
 TechStore Database Project — SQL Server (T-SQL) coursework/portfolio project.
